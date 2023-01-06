@@ -362,7 +362,7 @@ margin-top: 40px;
 }
 .modal {
   display: none;
-  position: fixed;
+  position: absolute;
   z-index: 8;
   left: 0;
   top: 0;
