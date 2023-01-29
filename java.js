@@ -1,6 +1,5 @@
 
-var toggleBtn = document.getElementById("toggle-sidebar-btn");
-var sidebar = document.querySelector(".sidebar");
+
 
       let modalBtns = [...document.querySelectorAll(".button1")];
       modalBtns.forEach(function (btn) {
